@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/enroll/static/css/main.d1b05096.chunk.css",
+    "main.js": "/enroll/static/js/main.32636c9a.chunk.js",
+    "main.js.map": "/enroll/static/js/main.32636c9a.chunk.js.map",
+    "runtime-main.js": "/enroll/static/js/runtime-main.60e208db.js",
+    "runtime-main.js.map": "/enroll/static/js/runtime-main.60e208db.js.map",
+    "static/css/2.833dd627.chunk.css": "/enroll/static/css/2.833dd627.chunk.css",
+    "static/js/2.a5f83c24.chunk.js": "/enroll/static/js/2.a5f83c24.chunk.js",
+    "static/js/2.a5f83c24.chunk.js.map": "/enroll/static/js/2.a5f83c24.chunk.js.map",
+    "index.html": "/enroll/index.html",
+    "precache-manifest.f8de6ce57abeabd6ba432ab86beee84d.js": "/enroll/precache-manifest.f8de6ce57abeabd6ba432ab86beee84d.js",
+    "service-worker.js": "/enroll/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/enroll/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/enroll/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a5f83c24.chunk.js.LICENSE": "/enroll/static/js/2.a5f83c24.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60e208db.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.a5f83c24.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.32636c9a.chunk.js"
+  ]
+}
